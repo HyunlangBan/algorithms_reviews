@@ -46,3 +46,24 @@ def selection_sort(array):
         array[lowest], array[i] = array[i], array[lowest]
     return array
 ```
+
+## Quick Sort
+- 정렬 알고리즘의 꽃이라고도 불린다.
+- 기준(pivot)을 정해두고 기준보다 작으면 left, 크면 right로 분류하는 함수를 정의하고 left와 right에 함수를 재귀적으로 적용한다.
+- 시간 복잡도는 `O(nlogn)`이며 최선의 경우에는 `O(nlogn)`, 최악의 경우에는 `O(n^2)`이다.
+```python
+def q_sort(array):
+    if len(array)<=1:
+        return array
+
+    pivot = array[0]
+    left, right = list(), list()
+
+    for i in range(1, len(array)):
+        if pivot < array[i]:
+            right.append(array[i])
+        else:
+            left.append(array[i])
+
+    return q_sort(left) + [pivot] + q_sort(right)
+```
