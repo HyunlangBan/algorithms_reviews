@@ -24,11 +24,10 @@ def bubble_sort(array):
 - 시간복잡도 `O(n^2)`, 최선의 경우에는 `O(n)`이다.
 ```python
 def insertion_sort(array):
-    for i in range(1, len(array)):
-        for j in range(i, 0, -1):
+    for end in range(1, len(array)):
+        for j in range(end, 0, -1):
             if array[j] < array[j-1]:
                 array[j-1], array[j] = array[j], array[j-1]
-            ## 앞의 수는 이미 정렬이 되어있으므로
             else:
                 break
     return array
