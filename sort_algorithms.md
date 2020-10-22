@@ -32,3 +32,17 @@ def insertion_sort(array):
                 break
     return array
 ```
+
+## Selection Sort
+- 배열 탐색 후 가장 작은 수를 현재 범위의 가장 앞으로 보낸다.
+- 시간 복잡도는 `O(n^2)`이다. 선택 정렬은 최선의 경우에도 `O(n^2)`이다.
+```python
+def selection_sort(array):
+    for i in range(len(array)-1):
+        lowest = i
+        for j in range(i+1, len(array)):
+            if array[lowest] > array[j]:
+                lowest = j
+        array[lowest], array[i] = array[i], array[lowest]
+    return array
+```
