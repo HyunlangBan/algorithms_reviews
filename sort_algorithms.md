@@ -67,3 +67,43 @@ def q_sort(array):
 
     return q_sort(left) + [pivot] + q_sort(right)
 ```
+
+## Merge Sort
+- 하나의 리스트를 두 개의 균등한 크기로 분할하고 분할된 부분 리스트를 정렬한 다음, 두 개의 정렬된 부분 리스트를 합하며 정렬을 수행하여 전체가 정렬된 리스트가 되게 하는 방법
+- 시간 복잡도는  `O(nlogn)`이며 최선과 최악의 경우에도 모두 `O(nlogn)`이다.
+- 개인적으로 어렵게 느껴지는 정렬 방법.......
+
+```python
+def merge(left, right):
+    merged = list()
+    left_point, right_point = 0, 0
+
+    while len(left) > left_point and len(right) > right_point:
+        if left[left_point] > right[right_point]:
+            merged.append(right[right_point])
+            right_point += 1
+        else:
+            merged.append(left[left_point])
+            left_point += 1
+
+    while len(left) > left_point:
+        merged.append(left[left_point])
+        left_point += 1
+
+    while len(right) > right_point:
+        merged.append(right[right_point])
+        right_point += 1
+
+    return merged
+
+
+def mergesplit(data):
+    if len(data)<=1:
+        return data
+
+    medium = int(len(data)/2)
+    left = mergesplit(data[:medium])
+    right = mergesplit(data[medium:])
+    
+    return merge(left, right)
+ ```
