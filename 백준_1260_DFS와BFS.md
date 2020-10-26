@@ -55,3 +55,7 @@ for i in result:
 ```
 
 ### SUCCESS ! ! !
+
+### 보완할 부분
+- `visited` `True`, `False`로 확인하기
+- print까지 함수 내에서 해결하기
