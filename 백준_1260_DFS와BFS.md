@@ -59,3 +59,4 @@ for i in result:
 ### 보완할 부분
 - `visited` `True`, `False`로 확인하기
 - print까지 함수 내에서 해결하기
+- DFS함수 스택이 아니라 재귀로 해결하는 방법도 알아두기
