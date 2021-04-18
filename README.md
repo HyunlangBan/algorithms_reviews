@@ -65,5 +65,6 @@
   
   - [DFS와 BFS](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1260_DFS%EC%99%80BFS.md): ⭕️
   - [숨바꼭질](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1697_%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.md): ❌
+  - [바이러스](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.md): ⭕️
+
 </details>
-- [바이러스](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.md): ⭕️
