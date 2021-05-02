@@ -67,5 +67,6 @@
   - [숨바꼭질](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1697_%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.md): ❌
   - [바이러스](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.md): ⭕️
   - [유기농배추](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1012_%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.md): ❌
+  - [효율적인해킹](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1325_%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%ED%95%B4%ED%82%B9.md):  ❌
 
 </details>
