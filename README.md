@@ -70,3 +70,8 @@
   - [효율적인해킹](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1325_%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%ED%95%B4%ED%82%B9.md):  ❌
 
 </details>
+<details>
+  <summary>그래프 고급 탐색 알고리즘</summary>
+  
+  - [해킹](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_10282_%ED%95%B4%ED%82%B9.md): ❌
+</details>
