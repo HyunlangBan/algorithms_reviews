@@ -80,5 +80,7 @@
   <summary>기초 탐욕 알고리즘</summary>
   
   - [등수 매기기](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2012_%EB%93%B1%EC%88%98%EB%A7%A4%EA%B8%B0%EA%B8%B0.md): ⭕️
+  - [배](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1092_%EB%B0%B0.md): ❌
+
 </details>
 
