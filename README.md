@@ -78,5 +78,6 @@
   - 핵심
     - [센서](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2212_%EC%84%BC%EC%84%9C.md): ⭕️
     - [도서관](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1461_%EB%8F%84%EC%84%9C%EA%B4%80.md): ❌
+    - [컵라면](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1781_%EC%BB%B5%EB%9D%BC%EB%A9%B4.md): ❌
 </details>
 
