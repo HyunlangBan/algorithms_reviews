@@ -81,3 +81,9 @@
     - [컵라면](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1781_%EC%BB%B5%EB%9D%BC%EB%A9%B4.md): ❌
 </details>
 
+<details>
+  <summary>백트래킹</summary>
+  
+  - [암호 만들기](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1759_%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.md): ❌
+</details>
+
