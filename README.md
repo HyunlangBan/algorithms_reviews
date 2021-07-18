@@ -67,6 +67,7 @@
  - 고급
    - [해킹](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_10282_%ED%95%B4%ED%82%B9.md): ❌
    - [거의 최단 경로](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_5719_%EA%B1%B0%EC%9D%98%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.md): ❌
+   - [우주신과의 교감](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1774_%EC%9A%B0%EC%A3%BC%EC%8B%A0%EA%B3%BC%EC%9D%98%EA%B5%90%EA%B0%90.md): ❌
 </details>
 
 <details>
