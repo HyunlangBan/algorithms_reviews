@@ -86,5 +86,7 @@
   <summary>백트래킹</summary>
   
   - [암호 만들기](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1759_%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.md): ❌
+ - [N-Queen](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_9663_N-Queen.md): ❌
+
 </details>
 
