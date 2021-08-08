@@ -19,8 +19,8 @@
   
   - 기본
     - [나이순 정렬](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_10814_%EB%82%98%EC%9D%B4%EC%88%9C%EC%A0%95%EB%A0%AC.md): ⭕️
-    - 좌표 정렬하기
-    - 수 정렬하기3
+    - [좌표 정렬하기](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_11650_%EC%A2%8C%ED%91%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md): ⭕️
+    - [수 정렬하기3](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_10989_%EC%88%98%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03.md): ❌
   - 고급
     - [수정렬하기2(MergeSort)](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2751_%EC%88%98%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02.md): ❌
 </details>
