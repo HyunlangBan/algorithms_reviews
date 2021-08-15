@@ -8,7 +8,7 @@
   
   - 기본
     - [블랙잭](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2798_%EB%B8%94%EB%9E%99%EC%9E%AD.md): ⭕️
-    - [스택수열](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1874_%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4.md): ❌ 
+    - [스택수열](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1874_%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4.md): ❌ ❌
     - [프린터큐](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1966_%ED%94%84%EB%A6%B0%ED%84%B0%ED%81%90.md): ⭕️ 
     - [키로거](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_5397_%ED%82%A4%EB%A1%9C%EA%B1%B0.md): ⭕️ 
   - 고급
