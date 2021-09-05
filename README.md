@@ -12,7 +12,7 @@
     - [프린터큐](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1966_%ED%94%84%EB%A6%B0%ED%84%B0%ED%81%90.md): ⭕️ 
     - [키로거](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_5397_%ED%82%A4%EB%A1%9C%EA%B1%B0.md): ⭕️ 
   - 고급
-    - [친구 네트워크](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_4195_%EC%B9%9C%EA%B5%AC%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md): ❌
+    - [친구 네트워크](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_4195_%EC%B9%9C%EA%B5%AC%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md): ❌❌
 </details>
 <details>
   <summary>정렬 알고리즘</summary>
