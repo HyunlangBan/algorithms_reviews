@@ -12,7 +12,7 @@
     - [프린터큐](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1966_%ED%94%84%EB%A6%B0%ED%84%B0%ED%81%90.md): ⭕️ 
     - [키로거](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_5397_%ED%82%A4%EB%A1%9C%EA%B1%B0.md): ⭕️ 
   - 고급
-    - [친구 네트워크](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_4195_%EC%B9%9C%EA%B5%AC%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md): ❌❌
+    - [친구 네트워크](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_4195_%EC%B9%9C%EA%B5%AC%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md): ❌ ❌
 </details>
 <details>
   <summary>정렬 알고리즘</summary>
@@ -27,7 +27,7 @@
 <details>
   <summary>재귀 호출</summary>
   
-  - [피보나치수](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2747_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98.md): ❌❌
+  - [피보나치수](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2747_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98.md): ❌ ❌
   - [Z](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1074_Z.md): ❌
   - [0만들기](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_7490_0%EB%A7%8C%EB%93%A4%EA%B8%B0.md): 🔼
 </details>
@@ -39,7 +39,7 @@
     - [베스트셀러](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1302_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC.md): ⭕️
     - [트로피진열](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1668_%ED%8A%B8%EB%A1%9C%ED%94%BC%EC%A7%84%EC%97%B4.md): ⭕️
     - [성지키기](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1236_%EC%84%B1%EC%A7%80%ED%82%A4%EA%B8%B0.md): ⭕️
-    - [공유기설치](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2110_%EA%B3%B5%EC%9C%A0%EA%B8%B0%EC%84%A4%EC%B9%98.md): 🔼
+    - [공유기설치](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2110_%EA%B3%B5%EC%9C%A0%EA%B8%B0%EC%84%A4%EC%B9%98.md): 🔼 ❌
     - [중량제한](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1939_%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C.md): ❌
   - 고급
     - [트리순회](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1991_%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C.md): ⭕️
