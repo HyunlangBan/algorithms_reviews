@@ -39,6 +39,7 @@
     - [베스트셀러](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1302_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%85%80%EB%9F%AC.md): ⭕️
     - [트로피진열](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1668_%ED%8A%B8%EB%A1%9C%ED%94%BC%EC%A7%84%EC%97%B4.md): ⭕️
     - [성지키기](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1236_%EC%84%B1%EC%A7%80%ED%82%A4%EA%B8%B0.md): ⭕️
+  - 핵심
     - [공유기설치](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2110_%EA%B3%B5%EC%9C%A0%EA%B8%B0%EC%84%A4%EC%B9%98.md): 🔼 ❌
     - [중량제한](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1939_%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C.md): ❌
   - 고급
