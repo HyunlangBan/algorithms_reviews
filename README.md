@@ -28,7 +28,7 @@
   <summary>재귀 호출</summary>
   
   - [피보나치수](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2747_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98.md): ❌ ❌
-  - [Z](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1074_Z.md): ❌
+  - [Z](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1074_Z.md): ❌ ❌
   - [0만들기](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_7490_0%EB%A7%8C%EB%93%A4%EA%B8%B0.md): 🔼 ❌
 </details>
 
