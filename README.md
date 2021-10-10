@@ -44,7 +44,7 @@
     - [중량제한](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1939_%EC%A4%91%EB%9F%89%EC%A0%9C%ED%95%9C.md): ❌
   - 고급
     - [트리순회](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1991_%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C.md): ⭕️
-    - [트리의높이와너비](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2250_%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%86%92%EC%9D%B4%EC%99%80%EB%84%88%EB%B9%84.md): ❌
+    - [트리의높이와너비](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_2250_%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%86%92%EC%9D%B4%EC%99%80%EB%84%88%EB%B9%84.md): ❌ ❌
     - [최소힙](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1927_%EC%B5%9C%EC%86%8C%ED%9E%99.md): ⭕️
     - [카드정렬하기](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1715_%EC%B9%B4%EB%93%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.md): ⭕️
     - [문제집](https://github.com/HyunlangBan/algorithms_reviews/blob/master/%EB%B0%B1%EC%A4%80_1766_%EB%AC%B8%EC%A0%9C%EC%A7%91.md): ❌
